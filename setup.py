@@ -6,5 +6,5 @@ setup(name='NeutronHelper',
       author='Joooai',
       author_email='funnycartoonsyt@gmail.com',
       url='https://github.com/FaserGer853/NeuronHelper/blob/main/NeuronHelper.py',
-      packages=['NeutronHelper'],
+      packages=[],
      )
